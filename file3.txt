@@ -1,1 +1,2 @@
-The ubuntu2@ip172 shell
+The ubuntu2@ip172 shell 
+This is  from root user pc
